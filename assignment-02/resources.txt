@@ -1,0 +1,3 @@
+A directory is another name for a folder. It is the parent to a file and allows for multiple files to be held within itself.
+A VCS can help you track all of your previous changes on a project, revert to prievious versions, and help with collaboration by making it easy to share projects with others.
+My favorite artistic medium is photogrpahy. I enjoy taking pictures and trying to create art with said pictures.
