@@ -1,0 +1,22 @@
+/* This is the file, "fonts.css." */
+@font-face {
+    font-family: 'JosefinSans';
+    src: url('../fonts/JosefinSans-Regular.ttf') format('truetype');
+    font-style: normal;
+ }
+ @font-face {
+    font-family: 'JosefinSans';
+    src: url('../fonts/JosefinSans-Bold.ttf') format('truetype');
+    font-weight: 700;
+ }
+
+ @font-face {
+   font-family: 'Oswald';
+   src: url('../fonts/Oswald-Regular.ttf') format('truetype');
+   font-style: normal;
+}
+@font-face {
+   font-family: 'Oswald';
+   src: url('../fonts/Oswald-Bold.ttf') format('truetype');
+   font-weight: 700;
+}
